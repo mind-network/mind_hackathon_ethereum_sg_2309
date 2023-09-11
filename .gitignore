@@ -1,3 +1,8 @@
+secrets_alice.py
+secrets_bob.py
+sdk_mind_fhe.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
